@@ -1,0 +1,2 @@
+# slonie
+Small algorythm program 
